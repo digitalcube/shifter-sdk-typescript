@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@digitalcube/experimental-shifter-sdk-node",
+  "name": "@digitalcube/experimental-shifter-sdk-typescript",
   "author": "Hidetaka Okamoto",
   "module": "dist/shifter-sdk-node.esm.js",
   "size-limit": [
