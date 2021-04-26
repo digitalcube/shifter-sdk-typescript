@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "shifter-sdk-node",
+  "name": "@digitalcube/experimental-shifter-sdk-node",
   "author": "Hidetaka Okamoto",
   "module": "dist/shifter-sdk-node.esm.js",
   "size-limit": [
@@ -44,6 +44,9 @@
       "limit": "10 KB"
     }
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@digitalcube"
+  },
   "devDependencies": {
     "@size-limit/preset-small-lib": "^4.10.2",
     "@types/request": "^2.48.5",
@@ -52,6 +55,10 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.2.0",
     "typescript": "^4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalcube/experimental-shifter-sdk-typescript.git"
   },
   "dependencies": {}
 }
