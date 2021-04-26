@@ -60,5 +60,10 @@
     "type": "git",
     "url": "https://github.com/digitalcube/experimental-shifter-sdk-typescript.git"
   },
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.21.1",
+    "es6-promise": "^4.2.4",
+    "url-parse": "^1.4.3",
+    "whatwg-fetch": "^3.0.0"
+  }
 }
