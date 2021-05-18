@@ -1,0 +1,6 @@
+.bin/
+.github/
+docs/
+node_modules/
+src/
+test/
