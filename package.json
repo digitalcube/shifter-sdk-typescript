@@ -66,7 +66,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "es6-promise": "^4.2.4",
-    "url-parse": "^1.4.3",
+    "url-parse": "^1.5.8",
     "whatwg-fetch": "^3.0.0"
   }
 }
